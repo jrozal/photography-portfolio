@@ -7,7 +7,7 @@ const Heading = styled.h1`
   text-align: center;
 `;
 
-const Title = () => (
+const Title: React.FC = () => (
   <Heading>Justin Rozal Photography</Heading>
 );
 
