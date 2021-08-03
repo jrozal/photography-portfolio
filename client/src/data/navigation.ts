@@ -4,5 +4,5 @@ export const navigationData = [
   'Food',
   'Event',
   'About',
-  'Content'
+  'Contact'
 ];
