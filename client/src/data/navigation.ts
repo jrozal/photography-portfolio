@@ -1,4 +1,4 @@
-export const navigationData = [
+export const navigationData: Array<string> = [
   'Landscape',
   'Interior',
   'Food',
