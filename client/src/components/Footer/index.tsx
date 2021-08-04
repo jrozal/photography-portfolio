@@ -2,7 +2,7 @@ import React from 'react';
 import Socials from '../Socials';
 import * as Styled from './styled';
 
-const Footer: React.FC = () => {
+const Footer = () => {
   const date = new Date();
   const year = date.getFullYear();
 

@@ -3,7 +3,7 @@ import { socialsData } from '../../data/socials';
 import { Icons } from '../Icons';
 import * as Styled from './styled';
 
-const Socials: React.FC = () => (
+const Socials = () => (
   <Styled.SocialsContainer>
     <Styled.SocialsList>
       {socialsData.map((social) => {
