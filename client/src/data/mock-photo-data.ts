@@ -1,4 +1,4 @@
-export const mockPhotoData = [
+export const mockPhotoData: Array<string> = [
   'https://format-com-cld-res.cloudinary.com/image/private/s--AmEFGYlN--/c_limit,g_center,h_65535,w_1600/fl_keep_iptc.progressive,q_95/v1/0c296c9598c63387bf6dcbe48c2ac068/IMG_9240-1-2_copy.jpg?1600',
   'https://format-com-cld-res.cloudinary.com/image/private/s--E1EMnyGV--/c_limit,g_center,h_65535,w_900/fl_keep_iptc.progressive,q_95/v1/28e1df8ca4dc33305797bcb9d182c991/IMG_9933-1-1-2.jpg?900',
   'https://format-com-cld-res.cloudinary.com/image/private/s--zSmDB4M3--/c_limit,g_center,h_65535,w_1600/fl_keep_iptc.progressive,q_95/v1/e56c5bb4696013d6012d0376e90d5029/IMG_9773-1-3_copy.jpg?1600',
