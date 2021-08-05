@@ -14,8 +14,4 @@ export default createGlobalStyle `
   #root{
     margin:0 auto;
   }
-
-  h1 {
-    font-weight: 700;
-  }
 `;
