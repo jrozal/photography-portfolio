@@ -1,7 +1,7 @@
 import React from 'react';
 import * as Styled from './styled';
-import Navigation from '../Navigation';
-import Title from '../Title';
+import Navigation from './Navigation';
+import Title from './Title';
 import Socials from '../Socials';
 
 const Header = () => {
